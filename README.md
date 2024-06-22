@@ -3,6 +3,9 @@
 <h3>Technical Support Engineer @ <a href="https://kinsta.com">Kinsta, Inc.</a>
 
 <h2>About</h2>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=alltrad3s&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+</p>
 <!--
 **alltrad3s/alltrad3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
