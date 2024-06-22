@@ -1,4 +1,6 @@
-## Hi there 👋 Basically a “Jack of all trades” and possibly a master of none but if you know how the saying goes, you can be sure that I’m pretty good at what I do.
+## Hi there, Jorge 👋 
+<h3>Basically a “Jack of all trades” and possibly a master of none but if you know how the saying goes, you can be sure that I’m pretty good at what I do.</h3>
+<h3>Technical Support Engineer @ <a href="https://kinsta.com">Kinsta, Inc.</a>
 
 <h2>About</h2>
 <!--
