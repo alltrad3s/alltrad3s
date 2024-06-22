@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Basically a “Jack of all trades” and possibly a master of none but if you know how the saying goes, you can be sure that I’m pretty good at what I do.
 
+<h2>About</h2>
 <!--
 **alltrad3s/alltrad3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
