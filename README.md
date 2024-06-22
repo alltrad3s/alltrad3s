@@ -1,9 +1,9 @@
 ## Hi there, I'm Jorge 👋 
-<h3>Basically a “Jack of all trades” and possibly a master of none but if you know how the saying goes, you can be sure that I’m pretty good at what I do.</h3>
+<div size='20px'>Basically a “Jack of all trades” and possibly a master of none but if you know how the saying goes, you can be sure that I’m pretty good at what I do.</div>
 <h3>Technical Support Engineer @ <a href="https://kinsta.com">Kinsta, Inc.</a>
 
 <h2>About</h2>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=alltrad3s&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"><img src="https://komarev.com/ghpvc/?username=alltrad3s&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
 </p>
 <!--
