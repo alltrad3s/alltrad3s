@@ -5,6 +5,15 @@
 <h2>About</h2>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alltrad3s&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /> </p>
 🔭 I’m currently working on <a href="https://beersncode.com">Beers & Code</a>
+
+<h2>Stuff I know about</h2>
+```html
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,html,css,js,bootstrap,vscode,php,laravel,wordpress,nodejs,npm" />
+  </a>
+</p>
+```
 <!--
 **alltrad3s/alltrad3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
